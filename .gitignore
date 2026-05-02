@@ -1,0 +1,17 @@
+# Arduino build/cache files
+build/
+*.hex
+*.elf
+*.bin
+*.map
+*.eep
+*.lst
+
+# Arduino IDE temporary files
+.arduinoIDE-unsaved*/
+*.tmp
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
